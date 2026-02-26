@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "I Feel It Coming (feat. Daft Punk)",
+  "base_artist": "The Weeknd",
+  "createdAt": "2026-02-26T05:39:02.103068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "TheWeekndVEVO",
+      "has_synced": true,
+      "path": "select/01_I_Feel_It_Coming_(feat._Daft_Punk)_TheWeekndVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Feel It Coming (Feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/02_I_Feel_It_Coming_(Feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/03_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/04_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/05_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat․ Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/06_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/07_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd 🇨🇦",
+      "has_synced": false,
+      "path": "select/09_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd_🇨🇦.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/10_I_Feel_It_Coming_(feat._Daft_Punk)_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/11_I_Feel_It_Coming_(feat._Daft_Punk)_Song.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/12_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Feel It Coming feat. Daft Punk",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/13_I_Feel_It_Coming_feat._Daft_Punk_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/14_I_Feel_It_Coming_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Feel It Coming [feat. Daft Punk]",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/15_I_Feel_It_Coming_[feat._Daft_Punk]_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/16_I_Feel_It_Coming_(feat_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Feel It Coming Feat",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/17_I_Feel_It_Coming_Feat_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Feel It Coming (feat. Dafk Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/18_I_Feel_It_Coming_(feat._Dafk_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd, Daft Punk",
+      "has_synced": false,
+      "path": "select/pl_01_I_Feel_It_Coming_The_Weeknd,_Daft_Punk.txt"
+    }
+  ]
+}
